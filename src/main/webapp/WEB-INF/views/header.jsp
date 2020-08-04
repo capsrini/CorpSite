@@ -51,10 +51,7 @@
                                         </li>
                                         <li>
                                             <a href="#">Chicago</a>
-                                        </li>
-                                        <li>
-                                            <a href="#">Nashville</a>
-                                        </li>
+                                        </li>                                        
                                         <li>
                                             <a href="#">Secret Mountain</a>
                                         </li>

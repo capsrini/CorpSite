@@ -53,7 +53,7 @@
                                             <a href="#">Chicago</a>
                                         </li>
                                         <li>
-                                            <a href="#">Mumbai</a>
+                                            <a href="#">New York</a>
                                         </li>
                                         <li>
                                             <a href="#">Secret Mountain</a>
